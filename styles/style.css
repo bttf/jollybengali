@@ -1,0 +1,47 @@
+html, body {
+  padding: 10px;
+}
+
+body {
+  background: url('/img/jollybengali_background.jpg');
+  font-family: 'Open Sans', verdana, sans-serif;
+}
+
+div.yellow-box {
+  background-color: rgba(255, 245, 181, 0.6);
+  padding: 0.5em;
+  /*margin: 0 auto;*/
+  border-radius: 15px;
+}
+
+div.contact-info a {
+  color: #000;
+}
+
+div.contact-info a:hover {
+  color: #428BCA;
+  text-decoration: none;
+}
+
+div.contact-info {
+  /*display: inline-block;*/
+  font-size: 2.2em;
+}
+
+div.buffer {
+  margin: 2em 0;
+}
+
+div.menu {
+  padding: 1.5em;
+}
+
+div.caption {
+  text-align: center;
+  margin: 1em 0;
+}
+
+h1.title {
+  margin: 0 0 1em 0;
+}
+
