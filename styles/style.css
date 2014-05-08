@@ -47,7 +47,13 @@ h1.title {
 
 div.main-content {
   font-size: 2.2em;
+  font-family: 'Special Elite', 'Open Sans', verdana, sans-serif;
 }
 h2 {
   margin-top: 0;
+}
+
+.row {
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
