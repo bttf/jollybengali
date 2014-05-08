@@ -12,6 +12,7 @@ div.yellow-box {
   padding: 0.5em;
   /*margin: 0 auto;*/
   border-radius: 15px;
+  display: inline-block;
 }
 
 div.contact-info a {
@@ -24,7 +25,6 @@ div.contact-info a:hover {
 }
 
 div.contact-info {
-  /*display: inline-block;*/
   font-size: 2.2em;
 }
 
@@ -45,3 +45,9 @@ h1.title {
   margin: 0 0 1em 0;
 }
 
+div.main-content {
+  font-size: 2.2em;
+}
+h2 {
+  margin-top: 0;
+}
